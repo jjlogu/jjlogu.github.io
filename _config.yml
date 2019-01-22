@@ -20,4 +20,3 @@ permalink:        /posts/:title
 defaults:
   - values:
       layout: "default"
-theme: jekyll-theme-cayman
