@@ -1,9 +1,9 @@
 ---
-title: About me
+title: Tech side of myself
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+I'm a tech enthusiast . Basically I can talk with computers in C,C++ and Python. My relationship with computers began in early 2006, that's when I learned ”How to power on a computer?”. After undergraduate, during holidays I was working for a computer sales company where I bought my first ever desktop - ”GlobalSoft Technologies”. There I have learnt assembling, disassembling and hardware compatibilities.  
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+  
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+Find me on [GitHub](https://github.com/jjlogu) or [Twitter](https://twitter.com/jjlogu).
